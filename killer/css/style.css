@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form_area{
+    background-color: #242b2d;
+    color: white;
+    padding-bottom:7%;
+}
+.title_box{
+    height: 20px;
+    padding: 0px;
+    margin: 0px;
+    background-color: #89c852;
+    position: absolute;
+}
+.form_title{
+    position: relative;
+}
+.form_title h2{
+    font-size: 26px;
+    text-align: center;
+}
+
+.payment ul{
+    
+}
+.payment ul li{
+    list-style: none;
+    text-decoration: none;
+}
+.payment ul li img{
+    width: 14%;
+    float: left;
+    margin: 3px;
+}
+.form button{
+    height: 100px;
+    background-color: #89c852;
+    color: white;
+}
+
+
+
