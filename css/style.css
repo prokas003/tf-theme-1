@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo img{
+	width: 100%;
+}
+.footer {
+    background-color: #303232;
+    color: #fff;
+    padding-bottom: 20px;
+}
+.footer h3{
+	border-bottom: 1px solid #fff;
+	font-size: 18px;
+	padding: 15px 10px;
+	margin-bottom: 22px;
+}
+.herkan a{
+	color: #fff;
+}
+.herkan p{
+	line-height: 3px;
+	font-size: 14px;
+}
+.kontakt p{
+	font-size: 14px;
+}
